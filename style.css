@@ -1,0 +1,23 @@
+body{
+    background-color:   rgb(255, 204, 2);
+}
+#photo,#phone,#battery{
+    color: rgb(230, 13, 82);
+    font-weight: 1000;
+    font-size:23px;
+}
+.header{
+    color:black;
+    font-size: 30px;
+    width: 80%;
+}
+#camera{
+    border: 5px dashed black;
+width: 350px;
+height: 350px;
+}
+.hr{
+    border: 5px solid rgb(17, 8, 87);
+    border-radius: 5px;
+  
+}
